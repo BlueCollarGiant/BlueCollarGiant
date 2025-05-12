@@ -8,10 +8,11 @@
 
 ### 📊 GitHub Stats
 
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=BlueCollarGiant&show_icons=true&theme=tokyonight&hide=contribs&bg_color=45,468189,13092d&border_color=b0b0b0" />
-</a>
-<img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCollarGiant&layout=compact&theme=tokyonight&langs_count=6&bg_color=45,468189,13092d&border_color=b0b0b0" />
-</a>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BlueCollarGiant&show_icons=true&theme=tokyonight&hide=contribs&bg_color=45,468189,13092d&border_color=b0b0b0" style="margin-right: 10px;" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCollarGiant&layout=compact&theme=tokyonight&langs_count=6&bg_color=45,468189,13092d&border_color=b0b0b0" />
+</p>
 
 <br clear="both"/>
 
