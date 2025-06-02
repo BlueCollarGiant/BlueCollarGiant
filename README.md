@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Freyr — the Blue Collar Giant
+# 👋 Hey, I'm Isaiah — the Blue Collar Giant
 
 🔩 Machinist turned Full-Stack Developer  
 🧠 Student @ Codefi | Focused on Angular, Firebase, and Web APIs  
