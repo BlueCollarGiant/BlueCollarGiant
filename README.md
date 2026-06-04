@@ -141,14 +141,6 @@ Full client site built for a wedding planning service. Designed and deployed as 
 
 ---
 
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BlueCollarGiant&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
----
-
 ## Contribution Snake
 
 <p align="center">
