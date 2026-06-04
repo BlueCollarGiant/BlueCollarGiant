@@ -16,31 +16,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Write settings file
+        run: |
+          cat > /tmp/3d-contrib-settings.json << 'EOF'
+          {
+            "username": "BlueCollarGiant",
+            "max_repos": 10,
+            "angle": -15,
+            "selectedBranch": "main",
+            "setting": [
+              {
+                "type": "normal",
+                "toProfileDir": true,
+                "filename": "profile-night-rainbow.svg",
+                "backgroundColor": "#0d0d1a",
+                "foregroundColor": "#00e5ff",
+                "strongColor": "#ff6b35",
+                "mesoColor": "#00e5ff",
+                "weakColor": "#1a3a4a",
+                "edgeColor": "#00e5ff",
+                "isAnimate": true
+              }
+            ]
+          }
+          EOF
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "username": "BlueCollarGiant",
-              "max_repos": 10,
-              "angle": -15,
-              "selectedBranch": "main",
-              "setting": [
-                {
-                  "type": "normal",
-                  "toProfileDir": true,
-                  "filename": "profile-night-rainbow.svg",
-                  "backgroundColor": "#0d0d1a",
-                  "foregroundColor": "#00e5ff",
-                  "strongColor": "#ff6b35",
-                  "mesoColor": "#00e5ff",
-                  "weakColor": "#1a3a4a",
-                  "edgeColor": "#00e5ff",
-                  "isAnimate": true
-                }
-              ]
-            }
+          SETTING_JSON: /tmp/3d-contrib-settings.json
 
       - name: Commit and push updated graph
         run: |
