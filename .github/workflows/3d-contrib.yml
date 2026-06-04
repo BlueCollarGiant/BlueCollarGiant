@@ -1,0 +1,52 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # runs daily at 6pm UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Calendar
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        with:
+          SETTING_JSON: |
+            {
+              "username": "BlueCollarGiant",
+              "max_repos": 10,
+              "angle": -15,
+              "selectedBranch": "main",
+              "setting": [
+                {
+                  "type": "normal",
+                  "toProfileDir": true,
+                  "filename": "profile-night-rainbow.svg",
+                  "backgroundColor": "#0d0d1a",
+                  "foregroundColor": "#00e5ff",
+                  "strongColor": "#ff6b35",
+                  "mesoColor": "#00e5ff",
+                  "weakColor": "#1a3a4a",
+                  "edgeColor": "#00e5ff",
+                  "isAnimate": true
+                }
+              ]
+            }
+
+      - name: Commit and push updated graph
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "chore: update 3D contribution graph"
+          git push
