@@ -126,9 +126,9 @@ Full client site built for a wedding planning service. Designed and deployed as 
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BlueCollarGiant&show_icons=true&theme=tokyonight&hide=contribs&bg_color=45,0d0d1a,13092d&border_color=00e5ff&title_color=00e5ff&icon_color=00e5ff&text_color=c0cce0" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BlueCollarGiant&show_icons=true&theme=tokyonight&hide=contribs&bg_color=45,0d0d1a,13092d&border_color=00e5ff&title_color=00e5ff&icon_color=00e5ff&text_color=c0cce0" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueCollarGiant&layout=compact&theme=tokyonight&langs_count=6&bg_color=45,0d0d1a,13092d&border_color=00e5ff&title_color=00e5ff&text_color=c0cce0" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BlueCollarGiant&layout=compact&theme=tokyonight&langs_count=6&bg_color=45,0d0d1a,13092d&border_color=00e5ff&title_color=00e5ff&text_color=c0cce0" />
 </p>
 
 <p align="center">
