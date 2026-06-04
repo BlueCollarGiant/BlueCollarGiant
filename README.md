@@ -91,14 +91,35 @@ Turns messy field notes, weather data, photos, and application records into stru
   <tr>
     <td width="50%" valign="top">
 
-### Music Player
-[![music-player](https://github-readme-stats.vercel.app/api/pin/?username=BlueCollarGiant&repo=music-player&theme=tokyonight&bg_color=45,0d0d1a,13092d&border_color=00e5ff&title_color=00e5ff&icon_color=00e5ff)](https://github.com/BlueCollarGiant/music-player)
+### Plumino: Employee Operations Portal
+Capstone project built with guidance from a Plumino developer using realistic biotech company data provided by the client.
+
+Role-based employee portal where data editing permissions are tied to employee roles. Charts and data visualizations update in real time as data is entered.
+
+**Highlights:**
+- Built from client-style requirements and real data structures
+- Role-based permission modeling
+- Real-time data visualizations
+- Kept data-heavy views readable and maintainable
+
+[![Plumino](https://github-readme-stats.vercel.app/api/pin/?username=BlueCollarGiant&repo=Plumino&theme=tokyonight&bg_color=45,0d0d1a,13092d&border_color=00e5ff&title_color=00e5ff&icon_color=00e5ff)](https://github.com/BlueCollarGiant/Plumino)
+
+`Angular` `TypeScript` `Node.js` `Firebase`
 
     </td>
     <td width="50%" valign="top">
 
-### Seed Data Tool
-*(Coming soon: Firebase admin/seeder tooling)*
+### Avidity Weddings
+Full client site built for a wedding planning service. Designed and deployed as a production business website with real clients and real traffic.
+
+**Highlights:**
+- Client-facing business website from concept to deployment
+- Wedding planning service with full content and service pages
+- Production deployment with custom domain
+
+[avidityweddings.com](https://avidityweddings.com)
+
+`HTML` `CSS` `JavaScript` `Netlify`
 
     </td>
   </tr>
