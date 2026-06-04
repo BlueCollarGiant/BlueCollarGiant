@@ -24,9 +24,7 @@
 
 I build and maintain deployed full-stack web applications for real users and small businesses.
 
-My background spans modern frontend development with Angular and TypeScript, backend API work, database integration, deployment, and security-focused project maintenance. I take projects from concept to live deployment while keeping ownership, billing, infrastructure, and long-term maintainability in mind.
-
-I also use AI-assisted development tools responsibly — accelerating planning, debugging, and implementation while maintaining manual review and control over architecture, security, and final code quality.
+My background covers frontend development with Angular and TypeScript, backend API work, database integration, deployment, and security-focused project maintenance. I take projects from concept to live deployment with ownership, billing, infrastructure, and long-term maintainability in mind.
 
 > Machinist turned Full-Stack Developer. Same mindset. Different tools.
 
@@ -36,18 +34,18 @@ I also use AI-assisted development tools responsibly — accelerating planning, 
 
 I build full-stack web applications, business websites, and client-focused web tools with an emphasis on clean structure, maintainability, and real deployment.
 
-My work includes frontend interfaces, backend APIs, database integration, authentication flows, deployment setup, environment configuration, and basic security review.
+My work covers frontend interfaces, backend APIs, database integration, authentication flows, deployment setup, environment configuration, and security review.
 
-I focus on helping small businesses establish professional web infrastructure — websites, booking flows, database-backed applications, and secure project ownership separation.
+I focus on helping small businesses establish professional web infrastructure: websites, booking flows, database-backed applications, and secure project ownership separation.
 
 ---
 
 ## Current Focus
 
-- Building and delivering client web projects through **The House of Crimson LLC** — my web services company focused on small business infrastructure
+- Building and delivering client web projects through **The House of Crimson LLC**, my web services company focused on small business infrastructure
 - Secure deployment workflows and production environment hardening
-- Separating client/business/personal infrastructure for clean ownership and billing
-- AI-assisted development systems with manual review and architectural control
+- Separating client, business, and personal infrastructure for clean ownership and billing
+- Rapid prototyping and product development
 
 ---
 
@@ -57,18 +55,17 @@ I focus on helping small businesses establish professional web infrastructure �
   <tr>
     <td width="50%" valign="top">
 
-### Eden — Field Service Operations App
+### Eden: Field Service Operations App
 A field-service and lawncare operations prototype built around team workspaces, job records, proof uploads, manager review, and mobile-first workflows.
 
 Helps owners and managers organize crews, saved job sites, before/after photo proof, job details, and reviewable work records from a central dashboard.
 
 **Highlights:**
-- SaaS product planning & feature design
-- Team/company workspace architecture
-- Manager dashboard & report detail views
+- SaaS product planning and feature design
+- Team workspace architecture
+- Manager dashboard and report detail views
 - Before/after photo proof upload workflows
 - Component and service architecture refactoring
-- AI-assisted development with manual review
 
 `Angular` `TypeScript` `Firebase` `Mobile-First`
 
@@ -76,7 +73,7 @@ Helps owners and managers organize crews, saved job sites, before/after photo pr
     <td width="50%" valign="top">
 
 ### Vibeathon AgTech Prototype
-Rapid MVP built during the **Codefi Cape Vibeathon** — solving real operational recordkeeping problems in agriculture.
+Rapid MVP built during the **Codefi Cape Vibeathon**, solving real operational recordkeeping problems in agriculture.
 
 Turns messy field notes, weather data, photos, and application records into structured records that support manager review, compliance workflows, and audit-style documentation.
 
@@ -101,7 +98,7 @@ Turns messy field notes, weather data, photos, and application records into stru
     <td width="50%" valign="top">
 
 ### Seed Data Tool
-*(Coming soon — Firebase admin/seeder tooling)*
+*(Coming soon: Firebase admin/seeder tooling)*
 
     </td>
   </tr>
@@ -120,42 +117,42 @@ Turns messy field notes, weather data, photos, and application records into stru
 - TypeScript
 - JavaScript
 - HTML5 / CSS3
-- Responsive & mobile-first design
+- Responsive and mobile-first design
 - Component-based architecture
-- Angular Services & DI
-- Forms & UI state management
+- Angular Services and DI
+- Forms and UI state management
 - Custom CSS without framework dependency
 
   </td>
   <td valign="top" width="33%">
 
-**Backend & APIs**
+**Backend and APIs**
 - Ruby on Rails API development
-- Node/Express-style API concepts
-- REST API design & integration
+- Node/Express API concepts
+- REST API design and integration
 - Authentication flows (login, guards, protected routes)
-- JWT / session-based auth patterns
+- JWT and session-based auth patterns
 - OAuth concepts
 - Environment variable configuration
 
   </td>
   <td valign="top" width="33%">
 
-**Databases & Cloud**
+**Databases and Cloud**
 - MongoDB (setup, migration, ownership)
 - Firebase / Firestore
 - PostgreSQL basics
 - Drizzle ORM basics
 - Database connection management
 - Client/business infrastructure separation
-- Paid subscription & billing setup
+- Paid subscription and billing setup
 
   </td>
   </tr>
   <tr>
   <td valign="top" width="33%">
 
-**Deployment & DevOps**
+**Deployment and DevOps**
 - Netlify (frontend deployment)
 - Render-style backend deployment
 - Production build debugging
@@ -167,26 +164,25 @@ Turns messy field notes, weather data, photos, and application records into stru
   </td>
   <td valign="top" width="33%">
 
-**Security & Maintenance**
+**Security and Maintenance**
 - Snyk vulnerability scanning
-- Dependency review & audit
+- Dependency review and audit
 - Secrets and environment auditing
-- Security branch review & recovery
+- Security branch review and recovery
 - Production configuration review
 - Identifying exposed config risks
 
   </td>
   <td valign="top" width="33%">
 
-**Product & Prototyping**
-- MVP planning & hackathon execution
+**Product and Prototyping**
+- MVP planning and hackathon execution
 - Product scope definition
 - User workflow mapping
 - Dashboard UX design
 - Mobile-first workflow design
 - Demo flow preparation
-- AI-assisted development with manual review
-- Refactoring AI-generated code
+- Code review and refactoring
 
   </td>
   </tr>
@@ -250,8 +246,6 @@ Turns messy field notes, weather data, photos, and application records into stru
 
 ---
 
----
-
 ## The House of Crimson LLC
 
 <p align="center">
@@ -262,15 +256,15 @@ Turns messy field notes, weather data, photos, and application records into stru
   <img src="https://img.shields.io/badge/The%20House%20of%20Crimson%20LLC-Web%20Services%20%7C%20Development%20%7C%20Infrastructure-8B0000?style=for-the-badge&labelColor=0d0d0d&logoColor=CFB53B" />
 </p>
 
-I run **The House of Crimson LLC** — a web services company built for small businesses that need more than a template.
+I run **The House of Crimson LLC**, a web services company built for small businesses that need more than a template.
 
-We handle full-stack web development, hosting setup, database infrastructure, deployment, security review, and the long-term maintenance that keeps a business's web presence actually working. If you're a small business owner who needs a developer who thinks like an owner, let's talk.
+We handle full-stack web development, hosting setup, database infrastructure, deployment, security review, and the long-term maintenance that keeps a business's web presence working. If you're a small business owner who needs a developer who thinks like an owner, let's talk.
 
-- **Web Development** — custom sites, web apps, Angular-based frontends
-- **Backend & Database** — API integration, MongoDB, Firebase, PostgreSQL
-- **Hosting & Deployment** — Netlify, production builds, environment setup
-- **Infrastructure Separation** — clean ownership for business vs. personal vs. client accounts
-- **Maintenance & Security** — dependency audits, Snyk scans, environment reviews
+- **Web Development:** custom sites, web apps, Angular-based frontends
+- **Backend and Database:** API integration, MongoDB, Firebase, PostgreSQL
+- **Hosting and Deployment:** Netlify, production builds, environment setup
+- **Infrastructure Separation:** clean ownership for business, personal, and client accounts
+- **Maintenance and Security:** dependency audits, Snyk scans, environment reviews
 
 > [isaiahratliff.dev](https://isaiahratliff.dev) · [LinkedIn](https://www.linkedin.com/in/isaiah-ratliff/)
 
