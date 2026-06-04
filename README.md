@@ -51,163 +51,65 @@ I focus on helping small businesses establish professional web infrastructure: w
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### Eden: Field Service Operations App
-A field-service and lawncare operations prototype built around team workspaces, job records, proof uploads, manager review, and mobile-first workflows.
+A field-service and lawncare operations prototype built around team workspaces, job records, proof uploads, manager review, and mobile-first workflows. Helps owners and managers organize crews, saved job sites, before/after photo proof, job details, and reviewable work records from a central dashboard.
 
-Helps owners and managers organize crews, saved job sites, before/after photo proof, job details, and reviewable work records from a central dashboard.
-
-**Highlights:**
-- SaaS product planning and feature design
-- Team workspace architecture
-- Manager dashboard and report detail views
-- Before/after photo proof upload workflows
-- Component and service architecture refactoring
+**Highlights:** SaaS product planning and feature design · Team workspace architecture · Manager dashboard and report detail views · Before/after photo proof upload workflows · Component and service architecture refactoring
 
 `Angular` `TypeScript` `Firebase` `Mobile-First`
 
-    </td>
-    <td width="50%" valign="top">
+---
 
 ### Vibeathon AgTech Prototype
-Rapid MVP built during the **Codefi Cape Vibeathon**, solving real operational recordkeeping problems in agriculture.
+Rapid MVP built during the **Codefi Cape Vibeathon**, solving real operational recordkeeping problems in agriculture. Turns messy field notes, weather data, photos, and application records into structured records that support manager review, compliance workflows, and audit-style documentation.
 
-Turns messy field notes, weather data, photos, and application records into structured records that support manager review, compliance workflows, and audit-style documentation.
-
-**Highlights:**
-- MVP planning under hackathon constraints
-- Product scoping and feature prioritization
-- Database-backed record system (PostgreSQL + Drizzle)
-- Moved app state from localStorage to backend persistence
-- Demo flow planning and submission preparation
+**Highlights:** MVP planning under hackathon constraints · Product scoping and feature prioritization · Database-backed record system (PostgreSQL + Drizzle) · Moved app state from localStorage to backend persistence · Demo flow planning and submission preparation
 
 `PostgreSQL` `Drizzle ORM` `Node` `Hackathon MVP`
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### Plumino: Employee Operations Portal
-Capstone project built with guidance from a Plumino developer using realistic biotech company data provided by the client.
+Capstone project built with guidance from a Plumino developer using realistic biotech company data provided by the client. Role-based employee portal where data editing permissions are tied to employee roles. Charts and data visualizations update in real time as data is entered.
 
-Role-based employee portal where data editing permissions are tied to employee roles. Charts and data visualizations update in real time as data is entered.
-
-**Highlights:**
-- Built from client-style requirements and real data structures
-- Role-based permission modeling
-- Real-time data visualizations
-- Kept data-heavy views readable and maintainable
+**Highlights:** Built from client-style requirements and real data structures · Role-based permission modeling · Real-time data visualizations · Kept data-heavy views readable and maintainable
 
 [![Plumino](https://github-readme-stats.vercel.app/api/pin/?username=BlueCollarGiant&repo=Plumino&theme=tokyonight&bg_color=45,0d0d1a,13092d&border_color=00e5ff&title_color=00e5ff&icon_color=00e5ff)](https://github.com/BlueCollarGiant/Plumino)
 
 `Angular` `TypeScript` `Node.js` `Firebase`
 
-    </td>
-    <td width="50%" valign="top">
+---
 
 ### Avidity Weddings
 Full client site built for a wedding planning service. Designed and deployed as a production business website with real clients and real traffic.
 
-**Highlights:**
-- Client-facing business website from concept to deployment
-- Wedding planning service with full content and service pages
-- Production deployment with custom domain
+**Highlights:** Client-facing business website from concept to deployment · Wedding planning service with full content and service pages · Production deployment with custom domain
 
 [avidityweddings.com](https://avidityweddings.com)
 
 `HTML` `CSS` `JavaScript` `Netlify`
 
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Skills
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
 **Frontend**
-- Angular (standalone components, routing, signals)
-- TypeScript
-- JavaScript
-- HTML5 / CSS3
-- Responsive and mobile-first design
-- Component-based architecture
-- Angular Services and DI
-- Forms and UI state management
-- Custom CSS without framework dependency
-
-  </td>
-  <td valign="top" width="33%">
+`Angular` `TypeScript` `JavaScript` `HTML5` `CSS3` `Responsive Design` `Component Architecture` `Angular Signals` `Angular Routing` `Angular Services` `Forms` `Custom CSS`
 
 **Backend and APIs**
-- Ruby on Rails API development
-- Node/Express API concepts
-- REST API design and integration
-- Authentication flows (login, guards, protected routes)
-- JWT and session-based auth patterns
-- OAuth concepts
-- Environment variable configuration
-
-  </td>
-  <td valign="top" width="33%">
+`Ruby on Rails` `Node/Express` `REST APIs` `Authentication Flows` `JWT` `OAuth` `Protected Routes` `Environment Variables`
 
 **Databases and Cloud**
-- MongoDB (setup, migration, ownership)
-- Firebase / Firestore
-- PostgreSQL basics
-- Drizzle ORM basics
-- Database connection management
-- Client/business infrastructure separation
-- Paid subscription and billing setup
-
-  </td>
-  </tr>
-  <tr>
-  <td valign="top" width="33%">
+`MongoDB` `Firebase` `Firestore` `PostgreSQL` `Drizzle ORM` `Database Migration` `Infrastructure Separation`
 
 **Deployment and DevOps**
-- Netlify (frontend deployment)
-- Render-style backend deployment
-- Production build debugging
-- Environment variable management
-- Git / GitHub / branch workflows
-- Merge review and recovery
-- Separating hosting by project/client/business
-
-  </td>
-  <td valign="top" width="33%">
+`Netlify` `Render` `Production Builds` `Build Debugging` `Git` `GitHub` `Branch Workflows` `Environment Configuration`
 
 **Security and Maintenance**
-- Snyk vulnerability scanning
-- Dependency review and audit
-- Secrets and environment auditing
-- Security branch review and recovery
-- Production configuration review
-- Identifying exposed config risks
-
-  </td>
-  <td valign="top" width="33%">
+`Snyk` `Dependency Audits` `Secrets Review` `Security Branch Recovery` `Production Config Review`
 
 **Product and Prototyping**
-- MVP planning and hackathon execution
-- Product scope definition
-- User workflow mapping
-- Dashboard UX design
-- Mobile-first workflow design
-- Demo flow preparation
-- Code review and refactoring
-
-  </td>
-  </tr>
-</table>
+`MVP Planning` `Hackathon Execution` `Product Scoping` `Workflow Mapping` `Dashboard UX` `Mobile-First Design` `Demo Prep` `Code Refactoring`
 
 ---
 
