@@ -74,7 +74,7 @@ Capstone project built with guidance from a Plumino developer using realistic bi
 
 **Highlights:** Built from client-style requirements and real data structures · Role-based permission modeling · Real-time data visualizations · Kept data-heavy views readable and maintainable
 
-[![Plumino](https://github-readme-stats.vercel.app/api/pin/?username=BlueCollarGiant&repo=Plumino&theme=tokyonight&bg_color=45,0d0d1a,13092d&border_color=00e5ff&title_color=00e5ff&icon_color=00e5ff)](https://github.com/BlueCollarGiant/Plumino)
+[View on GitHub](https://github.com/BlueCollarGiant/Plumino) · [Live Demo](https://plumino.netlify.app)
 
 `Angular` `TypeScript` `Node.js` `Firebase`
 
