@@ -91,6 +91,17 @@ Full client site built for a wedding planning service. Designed and deployed as 
 
 ---
 
+### Beancraft: Modded Minecraft Community Server
+Live client site built and deployed for Beancraft, a modded Minecraft community server run by Twitch streamer **SpleenVT**. The site gives players a clear path from discovering the community to installing the custom CurseForge modpack and joining the server.
+
+**Highlights:** Production client delivery · Three-page player onboarding experience · Custom modpack download and installation guidance · Static prerendering for speed and SEO · Responsive and accessible community-focused design
+
+[Visit Beancraft](https://www.the-campsite.com)
+
+`Angular 22` `TypeScript` `Static Site Generation` `Netlify`
+
+---
+
 ## Skills
 
 **Frontend**
